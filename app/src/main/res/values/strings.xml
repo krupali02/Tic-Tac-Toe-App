@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe App - Krupali Patel (217763277)</string>
+
+    <string-array name="options" >
+
+        <item> Player X</item>
+        <item> Player O</item>
+
+
+    </string-array>
+
+</resources>
